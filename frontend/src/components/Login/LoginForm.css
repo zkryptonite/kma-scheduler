@@ -1,0 +1,26 @@
+.login-box{
+    width: 20rem;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgba(0,115,230,0.3);
+    background: aliceblue;
+    opacity: 0.85;
+    margin-top: 7rem;
+    margin-left: 24rem;
+}
+
+.btn-submit{
+    margin-top: 0.75rem !important;
+    margin-left: 3.5rem !important;   
+}
+
+.login-alert{
+    font-size:smaller;
+    height: auto;
+    text-align: center;
+    padding: 0.15rem !important;
+}
+
+.login-box h3 {
+    text-align: center;
+}

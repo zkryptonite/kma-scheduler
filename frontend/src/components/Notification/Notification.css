@@ -1,0 +1,29 @@
+.notification-item{
+     background-color:aliceblue;
+     opacity: 0.85;
+     text-align:start;
+     font-weight: bold;
+     border-radius: 10px;
+     padding: 10px;
+     margin-bottom: 1.75vh;
+}
+
+.notification-container {
+    display: flex;
+    flex-direction: column;
+    justify-content:space-evenly;
+    animation-name: fade;
+    animation-duration: 3;
+    animation-delay: 2s;
+}
+
+.no-notification {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    background-color: aliceblue;
+    opacity: 0.85;
+    border-radius: 10px;
+    padding: 2rem;
+}
+
